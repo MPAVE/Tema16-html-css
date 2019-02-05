@@ -1,0 +1,19 @@
+#title{
+    font-family:Consolas, 'Edwardian Script ITC';
+    color: #0094ff;
+    text-align:center;
+    font-weight:bold;
+}
+#lorem-ipsum-text {
+	color: #0094ff;
+	text-align: justify;
+}
+#first-line {
+	font-size: 1.3em;
+	font-family:Consolas, 'Edwardian Script ITC' ;
+	display: block;
+}
+#first-line:first-letter {
+	font-size: 200%;
+	font-family: "font";
+}
